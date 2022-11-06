@@ -26,8 +26,8 @@ button {
   
   .modal-window {
     background-color: #fff;
-    min-width: 320px;
-    min-height:170px;
+    min-width: 25vw;
+    min-height: 25vh;
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(0,0,0,0.4);
     display: flex;
